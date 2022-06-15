@@ -1,3 +1,3 @@
-# Slides
-# Code
-# Write up
+[Slides]() <br>
+[Final writeup]() <br>
+[Code]() <br>
