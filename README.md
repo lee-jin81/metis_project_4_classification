@@ -1,1 +1,3 @@
-# metis_project_4_classification
+# Slides
+# Code
+# Write up
