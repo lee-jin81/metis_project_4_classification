@@ -10,7 +10,7 @@ In this project, I am classifying microorganisms from a dataset containing featu
 Microscope image analysis is a laborious and tedious job requiring skilled and trained personnel to perform the job. The analysis is prone to human error. The lab personnel need to spend hours a day to identify hundreds of cell images and researchers may be susceptible to decision fatigue and bias. Some microscope software has built in functions to measure the features of the images in an automated way, but the scientist still has to identify what the image is. Automating the classification of cell images by predicting the type such as fungi or algae, can help speed up identification of microorganisms while reducing human errors and bias. 
 I’m proposing to build a machine learning model that can be used to classify the type of a microorganism based on features extracted from microscope image analysis. As a proof of concept, my model will predict whether features of an algae are Ulothrix or not. The automated classification feature can be used alongside the microscope software to speed up overall image analyses while reducing bias and error. 
 
-# Dat
+# Data
 Source: Kaggle Microbes dataset: https://www.kaggle.com/datasets/sayansh001/microbes-dataset
 
 A row of data represents the features of a microscope image of a particular microorganism.
