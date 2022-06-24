@@ -19,7 +19,7 @@ The 15 columns of interest are: solidity, eccentricity, equivdiameter, extrema, 
 **Target**
 I will predict whether the algae is Ulothrix or not.
 
-# Tools:
+# Tools
 * Exploratory data analysis: Pandas
 * Visualizations: matplotlib and seaborn
 * Classification model: sklearn
