@@ -26,9 +26,9 @@ I will predict whether the algae is Ulothrix or not.
 * Classification model: sklearn
 
 ## Algorithms 
-Feature engineering
-•	Target labels were converted to numerical values of 1 and 0
-•	Duplicated entries across all columns were removed
+* Feature engineering
+*	Target labels were converted to numerical values of 1 and 0
+*	Duplicated entries across all columns were removed
 
 ### Models
 K-nearest neighbors, Logistic regression, Random forests, and Gradient boosted machine. 
