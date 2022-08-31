@@ -2,7 +2,7 @@
 [Slides](https://github.com/lee-jin81/metis_project_4_classification/blob/main/Slides_classification.pdf) <br>
 [Write-up](https://github.com/lee-jin81/metis_project_4_classification/blob/main/Writeup_classification.pdf) <br>
 [MVP](https://github.com/lee-jin81/metis_project_4_classification/blob/main/mvp_classification.md) <br>
-[Proposal]() 
+[Proposal](https://github.com/lee-jin81/metis_project_4_classification/blob/main/Proposal_classification.pdf) 
 
 # Classification of microorganisms
 
