@@ -22,11 +22,6 @@ The 15 columns of interest are: solidity, eccentricity, equivdiameter, extrema, 
 **Target**
 I will predict whether the algae is Ulothrix or not.
 
-## Tools
-* Exploratory data analysis: Pandas
-* Visualizations: matplotlib and seaborn
-* Classification model: sklearn
-
 ## Algorithms 
 * Feature engineering
 *	Target labels were converted to numerical values of 1 and 0
@@ -44,6 +39,11 @@ Random Forests 5 fold cross-validation scores
 * Precision: 0.879
 * Recall 0.923
 * F1: 0.900
+
+## Tools
+* Exploratory data analysis: Pandas
+* Visualizations: matplotlib and seaborn
+* Classification model: sklearn
 
 
 
