@@ -1,9 +1,11 @@
-[Slides](https://github.com/lee-jin81/metis_project_4_classification/blob/main/Slides_classification.pdf) <br>
-[Final writeup](https://github.com/lee-jin81/metis_project_4_classification/blob/main/Writeup_classification.pdf) <br>
 [Code](https://github.com/lee-jin81/metis_project_4_classification/blob/main/project_4_microbes_v_FINAL.ipynb) <br>
-[MVP](https://github.com/lee-jin81/metis_project_4_classification/blob/main/mvp_classification.md)
+[Slides](https://github.com/lee-jin81/metis_project_4_classification/blob/main/Slides_classification.pdf) <br>
+[Write-up](https://github.com/lee-jin81/metis_project_4_classification/blob/main/Writeup_classification.pdf) <br>
+[MVP](https://github.com/lee-jin81/metis_project_4_classification/blob/main/mvp_classification.md) <br>
+[Proposal] () 
 
 # Classification of microorganisms
+
 ## Abstract 
 In this project, I am classifying microorganisms from a dataset containing features of microscope images. The target is 1 if it is ‘Ulothrix’ and 0 for ‘Other’. Machine learning classification models were used in this project and the best model was selected through validation. The dataset was split into a training and testing set for proper evaluations. Models were scored using cross-validation. Testing set that was unseen was used to evaluate the best model at the end of the model selection. F1 score was used to select the best model and to optimize the model’s parameters since both true positives and true negatives are of importance to the goal of the project. Random forests was the best model with an accuracy of 90% on the train set. The model suffered from some overfitting, and the test accuracy was 80% with better prediction on the 0 class (Other).
 
